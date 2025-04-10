@@ -1,0 +1,2766 @@
+[
+    {
+        "n": "Aachen-Merzbrueck EDKA",
+        "m": "C0194C"
+    },
+    {
+        "n": "Aalen-Heidenheim/Elchingen EDPA",
+        "m": "C0194D"
+    },
+    {
+        "n": "Achmer EDXA",
+        "m": "C0194E"
+    },
+    {
+        "n": "Ahrenlohe EDHO",
+        "m": "C01950"
+    },
+    {
+        "n": "Ailertchen EDGA",
+        "m": "C01951"
+    },
+    {
+        "n": "Albstadt-Degerfeld EDSA",
+        "m": "C01952"
+    },
+    {
+        "n": "Allendorf/Eder EDFQ",
+        "m": "C01953"
+    },
+    {
+        "n": "Allstedt EDBT",
+        "m": "C01954"
+    },
+    {
+        "n": "Altdorf-Wallburg EDSW",
+        "m": "C01955"
+    },
+    {
+        "n": "Altena-Hegenscheid EDKD",
+        "m": "C01956"
+    },
+    {
+        "n": "Ampfing EDNA",
+        "m": "C01957"
+    },
+    {
+        "n": "Anklam EDCA",
+        "m": "C01958"
+    },
+    {
+        "n": "Ansbach-Petersdorf EDQF",
+        "m": "C01959"
+    },
+    {
+        "n": "Anspach/Taunus EDFA",
+        "m": "C0195A"
+    },
+    {
+        "n": "Arnbruck EDNB",
+        "m": "C0195B"
+    },
+    {
+        "n": "Arnsberg-Menden EDLA",
+        "m": "C0195C"
+    },
+    {
+        "n": "Arnstadt-Alkersleben EDBA",
+        "m": "C0195D"
+    },
+    {
+        "n": "Aschaffenburg EDFC",
+        "m": "C0195E"
+    },
+    {
+        "n": "Aschersleben EDCQ",
+        "m": "C0195F"
+    },
+    {
+        "n": "Attendorn-Finnentrop EDKU",
+        "m": "C01960"
+    },
+    {
+        "n": "Auerbach EDOA",
+        "m": "C01961"
+    },
+    {
+        "n": "Augsburg EDMA",
+        "m": "C01962"
+    },
+    {
+        "n": "Backnang-Heiningen EDSH",
+        "m": "C01964"
+    },
+    {
+        "n": "Bad Berka EDOB",
+        "m": "C01965"
+    },
+    {
+        "n": "Bad Ditzenbach EDPB",
+        "m": "C01966"
+    },
+    {
+        "n": "Bad Duerkheim EDRF",
+        "m": "C01967"
+    },
+    {
+        "n": "Bad Endorf/Jolling EDPC",
+        "m": "C01968"
+    },
+    {
+        "n": "Bad Frankenhausen EDOF",
+        "m": "C0196A"
+    },
+    {
+        "n": "Bad Gandersheim EDVA",
+        "m": "C0196B"
+    },
+    {
+        "n": "Bad Hersfeld EDEN",
+        "m": "C0196C"
+    },
+    {
+        "n": "Bad Kissingen EDFK",
+        "m": "C0196D"
+    },
+    {
+        "n": "Bad Langensalza EDEB",
+        "m": "C0196E"
+    },
+    {
+        "n": "Bad Neuenahr-Ahrweiler EDRA",
+        "m": "C0196F"
+    },
+    {
+        "n": "Bad Neustadt/Saale-Grasberg EDFD",
+        "m": "C01970"
+    },
+    {
+        "n": "Bad Pyrmont EDVW",
+        "m": "C01C93"
+    },
+    {
+        "n": "Bad Sobernheim-Domberg EDRS",
+        "m": "C01971"
+    },
+    {
+        "n": "Bad Waldsee-Reute EDMZ",
+        "m": "P000E6"
+    },
+    {
+        "n": "Bad Windsheim EDQB",
+        "m": "C01C2F"
+    },
+    {
+        "n": "Bad Woerishofen-Nord EDNH",
+        "m": "C01972"
+    },
+    {
+        "n": "Baden-Oos EDTB",
+        "m": "C01969"
+    },
+    {
+        "n": "Ballenstedt EDCB",
+        "m": "C01973"
+    },
+    {
+        "n": "Baltrum EDWZ",
+        "m": "C01974"
+    },
+    {
+        "n": "Bamberg-Breitenau EDQA",
+        "m": "C019DC"
+    },
+    {
+        "n": "Barssel EDXL",
+        "m": "C01975"
+    },
+    {
+        "n": "Barth EDBH",
+        "m": "C01976"
+    },
+    {
+        "n": "Bartholomae-Amalienhof EDPU",
+        "m": "C01977"
+    },
+    {
+        "n": "Bautzen EDAB",
+        "m": "C01978"
+    },
+    {
+        "n": "Bayreuth EDQD",
+        "m": "C01979"
+    },
+    {
+        "n": "Beilngries EDNC",
+        "m": "C0197A"
+    },
+    {
+        "n": "Berching EDNI",
+        "m": "C0197B"
+    },
+    {
+        "n": "Bergneustadt/Auf Dem Duempel EDKF",
+        "m": "C0197C"
+    },
+    {
+        "n": "Berlin Brandenburg EDDB",
+        "m": "C0197D"
+    },
+    {
+        "n": "Betzdorf-Kirchen EDKI",
+        "m": "C0197F"
+    },
+    {
+        "n": "Biberach a. d. Riss EDMB",
+        "m": "C01980"
+    },
+    {
+        "n": "Bielefeld EDLI",
+        "m": "C01981"
+    },
+    {
+        "n": "Bienenfarm EDOI",
+        "m": "C01982"
+    },
+    {
+        "n": "Binningen EDSI",
+        "m": "C01983"
+    },
+    {
+        "n": "Bitburg EDRB",
+        "m": "C01984"
+    },
+    {
+        "n": "Blaubeuren EDMC",
+        "m": "C01985"
+    },
+    {
+        "n": "Blexen EDWT",
+        "m": "C01986"
+    },
+    {
+        "n": "Blomberg-Borkhausen EDVF",
+        "m": "C01987"
+    },
+    {
+        "n": "Blumberg EDSL",
+        "m": "C01988"
+    },
+    {
+        "n": "Boehlen EDOE",
+        "m": "C01989"
+    },
+    {
+        "n": "Bohmte-Bad Essen EDXD",
+        "m": "C0198A"
+    },
+    {
+        "n": "Bonn-Hangelar EDKB",
+        "m": "C0198B"
+    },
+    {
+        "n": "Bopfingen EDNQ",
+        "m": "C0198C"
+    },
+    {
+        "n": "Borkenberge EDLB",
+        "m": "C0198D"
+    },
+    {
+        "n": "Borken-Hoxfeld EDLY",
+        "m": "C0198E"
+    },
+    {
+        "n": "Borkum EDWR",
+        "m": "C0198F"
+    },
+    {
+        "n": "Bottenhorn EDGT",
+        "m": "C01990"
+    },
+    {
+        "n": "Brandenburg-Muehlenfeld EDBE",
+        "m": "C01991"
+    },
+    {
+        "n": "Braunschweig-Wolfsburg EDVE",
+        "m": "C01992"
+    },
+    {
+        "n": "Breitscheid EDGB",
+        "m": "C01993"
+    },
+    {
+        "n": "Bremen EDDW",
+        "m": "C01994"
+    },
+    {
+        "n": "Bremgarten EDTG",
+        "m": "C01995"
+    },
+    {
+        "n": "Brilon/Hochsauerland EDKO",
+        "m": "C01996"
+    },
+    {
+        "n": "Bronkow EDBQ",
+        "m": "C01997"
+    },
+    {
+        "n": "Bruchsal EDTC",
+        "m": "C01998"
+    },
+    {
+        "n": "Burg EDBG",
+        "m": "C01999"
+    },
+    {
+        "n": "Burg Feuerstein EDQE",
+        "m": "C0199A"
+    },
+    {
+        "n": "Celle-Arloh EDVC",
+        "m": "C0199B"
+    },
+    {
+        "n": "Chemnitz/Jahnsdorf EDCJ",
+        "m": "C0199C"
+    },
+    {
+        "n": "Coburg-Brandensteinsebene EDQC",
+        "m": "C0199D"
+    },
+    {
+        "n": "Coburg-Steinruecken EDQY",
+        "m": "C0199E"
+    },
+    {
+        "n": "Dachau-Groebenried EDMD",
+        "m": "C019A0"
+    },
+    {
+        "n": "Dahlemer Binz EDKV",
+        "m": "C019A1"
+    },
+    {
+        "n": "Damme EDWC",
+        "m": "C019A2"
+    },
+    {
+        "n": "Deggendorf EDMW",
+        "m": "C019A3"
+    },
+    {
+        "n": "Dessau EDAD",
+        "m": "C019A4"
+    },
+    {
+        "n": "Detmold EDLJ",
+        "m": "C019A5"
+    },
+    {
+        "n": "Diepholz ETND",
+        "m": "C019A6"
+    },
+    {
+        "n": "Dierdorf-Wienau EDRW",
+        "m": "C019A7"
+    },
+    {
+        "n": "Dingolfing EDPD",
+        "m": "C019A8"
+    },
+    {
+        "n": "Dinkelsbuehl-Sinbronn EDND",
+        "m": "C019A9"
+    },
+    {
+        "n": "Dinslaken/Schwarze Heide EDLD",
+        "m": "C019AA"
+    },
+    {
+        "n": "Donaueschingen-Villingen EDTD",
+        "m": "C019AB"
+    },
+    {
+        "n": "Donauwoerth-Genderkingen EDMQ",
+        "m": "C019AC"
+    },
+    {
+        "n": "Donzdorf EDPM",
+        "m": "C019AD"
+    },
+    {
+        "n": "Dortmund EDLW",
+        "m": "C019AE"
+    },
+    {
+        "n": "Dresden EDDC",
+        "m": "C019AF"
+    },
+    {
+        "n": "Duesseldorf EDDL",
+        "m": "C019B0"
+    },
+    {
+        "n": "Ebern-Sendelbach EDQR",
+        "m": "C019B1"
+    },
+    {
+        "n": "Eberswalde-Finow EDAV",
+        "m": "C019B2"
+    },
+    {
+        "n": "Eggenfelden EDME",
+        "m": "C019B3"
+    },
+    {
+        "n": "Eggersdorf EDCE",
+        "m": "C019B4"
+    },
+    {
+        "n": "Eichsfeld EDHD",
+        "m": "C019B5"
+    },
+    {
+        "n": "Eichstaett EDPE",
+        "m": "C019B6"
+    },
+    {
+        "n": "Eisenach-Kindel EDGE",
+        "m": "C019B7"
+    },
+    {
+        "n": "Eisenhuettenstadt EDAE",
+        "m": "C019B8"
+    },
+    {
+        "n": "Ellwangen EDPY",
+        "m": "C019B9"
+    },
+    {
+        "n": "Elsenthal-Grafenau EDNF",
+        "m": "C019BA"
+    },
+    {
+        "n": "Elz EDFY",
+        "m": "C019BB"
+    },
+    {
+        "n": "Emden EDWE",
+        "m": "C019BC"
+    },
+    {
+        "n": "Erbach EDNE",
+        "m": "C019BD"
+    },
+    {
+        "n": "Erfurt-Weimar EDDE",
+        "m": "C019BE"
+    },
+    {
+        "n": "Essen/Muelheim EDLE",
+        "m": "C019BF"
+    },
+    {
+        "n": "Eutingen im Gaeu EDTE",
+        "m": "C019C0"
+    },
+    {
+        "n": "Falkenberg-Loennewitz EDUF",
+        "m": "C019C1"
+    },
+    {
+        "n": "Fehrbellin EDBF",
+        "m": "C019C2"
+    },
+    {
+        "n": "Finsterwalde-Heinrichsruh EDAS",
+        "m": "C019C3"
+    },
+    {
+        "n": "Finsterwalde/Schacksdorf EDUS",
+        "m": "C019C4"
+    },
+    {
+        "n": "Flensburg-Schaeferhaus EDXF",
+        "m": "C019C5"
+    },
+    {
+        "n": "Frankfurt-Egelsbach EDFE",
+        "m": "C019C6"
+    },
+    {
+        "n": "Frankfurt-Hahn EDFH",
+        "m": "C019C7"
+    },
+    {
+        "n": "Frankfurt Main EDDF",
+        "m": "C019C8"
+    },
+    {
+        "n": "Freiburg i. Br. EDTF",
+        "m": "C019C9"
+    },
+    {
+        "n": "Friedrichshafen EDNY",
+        "m": "C019CA"
+    },
+    {
+        "n": "Fritzlar ETHF",
+        "m": "C019CB"
+    },
+    {
+        "n": "Fulda-Jossa EDGF",
+        "m": "C019CC"
+    },
+    {
+        "n": "Fuerstenzell EDMF",
+        "m": "C019CD"
+    },
+    {
+        "n": "Ganderkesee Atlas Airfield EDWQ",
+        "m": "C019CE"
+    },
+    {
+        "n": "Gardelegen EDOC",
+        "m": "C019CF"
+    },
+    {
+        "n": "Gelnhausen EDFG",
+        "m": "C019D0"
+    },
+    {
+        "n": "Gera-Leumnitz EDAJ",
+        "m": "C019D1"
+    },
+    {
+        "n": "Gerstetten EDPT",
+        "m": "C019D2"
+    },
+    {
+        "n": "Giebelstadt EDQG",
+        "m": "C019D3"
+    },
+    {
+        "n": "Giengen/Brenz EDNG",
+        "m": "C019D4"
+    },
+    {
+        "n": "Giessen-Luetzellinden EDFL",
+        "m": "C019D5"
+    },
+    {
+        "n": "Giessen-Reiskirchen EDGR",
+        "m": "C019D6"
+    },
+    {
+        "n": "Goch-Asperden EDLG",
+        "m": "C019D7"
+    },
+    {
+        "n": "Goeppingen-Bezgenriet EDSE",
+        "m": "C019D8"
+    },
+    {
+        "n": "Goerlitz EDBX",
+        "m": "C019D9"
+    },
+    {
+        "n": "Gotha-Ost EDEG",
+        "m": "C019DA"
+    },
+    {
+        "n": "Grabenstaett EDJG",
+        "m": "C019DB"
+    },
+    {
+        "n": "Grabenstetten EDSG",
+        "m": "C019DD"
+    },
+    {
+        "n": "Grefrath-Niershorst EDLF",
+        "m": "C019DE"
+    },
+    {
+        "n": "Greiz-Obergrochlitz EDOT",
+        "m": "C019DF"
+    },
+    {
+        "n": "Griesau EDPG",
+        "m": "C019E0"
+    },
+    {
+        "n": "Grossenhain EDAK",
+        "m": "C019E1"
+    },
+    {
+        "n": "Grossrueckerswalde EDAG",
+        "m": "C019E2"
+    },
+    {
+        "n": "Grube EDHB",
+        "m": "C019E3"
+    },
+    {
+        "n": "Gruibingen-Nortel EDSO",
+        "m": "C019E4"
+    },
+    {
+        "n": "Gundelfingen EDMU",
+        "m": "C019E5"
+    },
+    {
+        "n": "Guenzburg-Donauried EDMG",
+        "m": "C019E7"
+    },
+    {
+        "n": "Gunzenhausen-Reutberg EDMH",
+        "m": "C019E6"
+    },
+    {
+        "n": "Guestrow EDCU",
+        "m": "C019E8"
+    },
+    {
+        "n": "Hahnweide EDST",
+        "m": "C019E9"
+    },
+    {
+        "n": "Halle-Oppin EDAQ",
+        "m": "C019EA"
+    },
+    {
+        "n": "Hamburg EDDH",
+        "m": "C019EB"
+    },
+    {
+        "n": "Hamburg-Finkenwerder EDHI",
+        "m": "C019EC"
+    },
+    {
+        "n": "Hamm-Lippewiesen EDLH",
+        "m": "C019EE"
+    },
+    {
+        "n": "Hannover EDDV",
+        "m": "C019EF"
+    },
+    {
+        "n": "Harle EDXP",
+        "m": "C019F0"
+    },
+    {
+        "n": "Hartenholm EDHM",
+        "m": "C019F1"
+    },
+    {
+        "n": "Hassfurt-Schweinfurt EDQT",
+        "m": "C019F2"
+    },
+    {
+        "n": "Heide-Buesum EDXB",
+        "m": "C019F3"
+    },
+    {
+        "n": "Helgoland-Duene EDXH",
+        "m": "C019F4"
+    },
+    {
+        "n": "Heppenheim EDEP",
+        "m": "C019F5"
+    },
+    {
+        "n": "Heringsdorf EDAH",
+        "m": "C019F6"
+    },
+    {
+        "n": "Herrenteich EDEH",
+        "m": "C019F7"
+    },
+    {
+        "n": "Herten-Rheinfelden EDTR",
+        "m": "C019F8"
+    },
+    {
+        "n": "Herzogenaurach EDQH",
+        "m": "C019F9"
+    },
+    {
+        "n": "Hettstadt EDGH",
+        "m": "C019FA"
+    },
+    {
+        "n": "Hetzleser Berg EDQX",
+        "m": "C019FB"
+    },
+    {
+        "n": "Heubach EDTH",
+        "m": "C019FC"
+    },
+    {
+        "n": "Hildesheim EDVM",
+        "m": "C019FD"
+    },
+    {
+        "n": "Hirzenhain EDFI",
+        "m": "C019FE"
+    },
+    {
+        "n": "Hockenheim EDFX",
+        "m": "C019FF"
+    },
+    {
+        "n": "Hodenhagen EDVH",
+        "m": "C01A00"
+    },
+    {
+        "n": "Hoelleberg EDVL",
+        "m": "C01A01"
+    },
+    {
+        "n": "Hoexter-Holzminden EDVI",
+        "m": "C01A02"
+    },
+    {
+        "n": "Hof-Plauen EDQM",
+        "m": "C01A03"
+    },
+    {
+        "n": "Hoppstaedten-Weiersbach EDRH",
+        "m": "C01A04"
+    },
+    {
+        "n": "Hoya EDHY",
+        "m": "C01C84"
+    },
+    {
+        "n": "Huensborn EDKH",
+        "m": "C01A05"
+    },
+    {
+        "n": "Husum-Schwesing EDXJ",
+        "m": "C01A06"
+    },
+    {
+        "n": "Huettenbusch EDXU",
+        "m": "C01A07"
+    },
+    {
+        "n": "Idar-Oberstein/Goettschied EDRG",
+        "m": "C01A08"
+    },
+    {
+        "n": "Illertissen EDMI",
+        "m": "C01A09"
+    },
+    {
+        "n": "Imsweiler EDRQ",
+        "m": "C01C89"
+    },
+    {
+        "n": "Ingelfingen-Buehlhof EDGI",
+        "m": "C01A0A"
+    },
+    {
+        "n": "Ingolstadt/Manching ETSI",
+        "m": "C01A0B"
+    },
+    {
+        "n": "Ithwiesen EDVT",
+        "m": "C01A0C"
+    },
+    {
+        "n": "Itzehoe/Hungriger Wolf EDHF",
+        "m": "C01A0D"
+    },
+    {
+        "n": "Jena-Schoengleina EDBJ",
+        "m": "C01A0E"
+    },
+    {
+        "n": "Jesenwang EDMJ",
+        "m": "C01A0F"
+    },
+    {
+        "n": "Juist EDWJ",
+        "m": "C01A10"
+    },
+    {
+        "n": "Kamenz EDCM",
+        "m": "C01A11"
+    },
+    {
+        "n": "Kamp-Lintfort EDLC",
+        "m": "C01A12"
+    },
+    {
+        "n": "Karlshoefen EDWK",
+        "m": "C01A13"
+    },
+    {
+        "n": "Karlsruhe/Baden-Baden EDSB",
+        "m": "C01A14"
+    },
+    {
+        "n": "Kassel-Calden EDVK",
+        "m": "C01A15"
+    },
+    {
+        "n": "Kehl-Sundheim EDSK",
+        "m": "C01A16"
+    },
+    {
+        "n": "Kempten-Durach EDMK",
+        "m": "C01A17"
+    },
+    {
+        "n": "Kiel-Holtenau EDHK",
+        "m": "C01A18"
+    },
+    {
+        "n": "Kirchdorf/Inn EDNK",
+        "m": "C01A19"
+    },
+    {
+        "n": "Kitzingen EDGY",
+        "m": "C01A1A"
+    },
+    {
+        "n": "Klein Muehlingen EDOM",
+        "m": "C01A1B"
+    },
+    {
+        "n": "Klietz/Scharlibbe EDCL",
+        "m": "C01A1C"
+    },
+    {
+        "n": "Klix EDCI",
+        "m": "C01A1D"
+    },
+    {
+        "n": "Koblenz-Winningen EDRK",
+        "m": "C01A1E"
+    },
+    {
+        "n": "Koeln/Bonn EDDK",
+        "m": "C01A1F"
+    },
+    {
+        "n": "Koethen EDCK",
+        "m": "C01A20"
+    },
+    {
+        "n": "Konstanz EDTZ",
+        "m": "C01A21"
+    },
+    {
+        "n": "Korbach EDGK",
+        "m": "C01A22"
+    },
+    {
+        "n": "Krefeld-Egelsberg EDLK",
+        "m": "C01A23"
+    },
+    {
+        "n": "Kuehrstedt-Bederkesa EDXZ",
+        "m": "C01A24"
+    },
+    {
+        "n": "Kulmbach EDQK",
+        "m": "C01A25"
+    },
+    {
+        "n": "Kyritz EDBK",
+        "m": "C01A26"
+    },
+    {
+        "n": "Laage ETNL",
+        "m": "C01A27"
+    },
+    {
+        "n": "Lachen-Speyerdorf EDRL",
+        "m": "C01A28"
+    },
+    {
+        "n": "Lager Hammelburg EDFJ",
+        "m": "C01A29"
+    },
+    {
+        "n": "Lahr EDTL",
+        "m": "C01A2A"
+    },
+    {
+        "n": "Laichingen EDPJ",
+        "m": "C01A2B"
+    },
+    {
+        "n": "Landshut EDML",
+        "m": "C01A2C"
+    },
+    {
+        "n": "Langenlonsheim EDEL",
+        "m": "C01A2D"
+    },
+    {
+        "n": "Langeoog EDWL",
+        "m": "C01A2E"
+    },
+    {
+        "n": "Langhennersdorf EDOH",
+        "m": "C01A2F"
+    },
+    {
+        "n": "Laucha EDBL",
+        "m": "C01A30"
+    },
+    {
+        "n": "Lauenbrueck EDHU",
+        "m": "C01A31"
+    },
+    {
+        "n": "Lauf-Lillinghof EDQI",
+        "m": "C01A32"
+    },
+    {
+        "n": "Lauterbach EDFT",
+        "m": "C01A33"
+    },
+    {
+        "n": "Leck EDXK",
+        "m": "C01A34"
+    },
+    {
+        "n": "Leer-Papenburg EDWF",
+        "m": "C01A35"
+    },
+    {
+        "n": "Leipzig-Altenburg Airport EDAC",
+        "m": "C01A36"
+    },
+    {
+        "n": "Leipzig/Halle EDDP",
+        "m": "C01A37"
+    },
+    {
+        "n": "Leutkirch-Unterzeil EDNL",
+        "m": "C01A38"
+    },
+    {
+        "n": "Leverkusen EDKL",
+        "m": "C01A39"
+    },
+    {
+        "n": "Lichtenfels EDQL",
+        "m": "C01A3A"
+    },
+    {
+        "n": "Linkenheim EDRI",
+        "m": "C01A3B"
+    },
+    {
+        "n": "Locktow",
+        "m": "C01A3C"
+    },
+    {
+        "n": "Luebeck-Blankensee EDHL",
+        "m": "C01A3D"
+    },
+    {
+        "n": "Luechow-Rehbeck EDHC",
+        "m": "C01A3E"
+    },
+    {
+        "n": "Lueneburg EDHG",
+        "m": "C01A3F"
+    },
+    {
+        "n": "Luesse EDOJ",
+        "m": "C01A40"
+    },
+    {
+        "n": "Magdeburg/City EDBM",
+        "m": "C01A41"
+    },
+    {
+        "n": "Magdeburg/Cochstedt EDBC",
+        "m": "C01A42"
+    },
+    {
+        "n": "Mainbullau EDFU",
+        "m": "C01A43"
+    },
+    {
+        "n": "Mainz/Finthen EDFZ",
+        "m": "C01A44"
+    },
+    {
+        "n": "Mannheim City EDFM",
+        "m": "C01A45"
+    },
+    {
+        "n": "Marburg-Schoenstadt EDFN",
+        "m": "C01A46"
+    },
+    {
+        "n": "Marl-Loemuehle EDLM",
+        "m": "C01A47"
+    },
+    {
+        "n": "Marpingen EDRC",
+        "m": "C01CD0"
+    },
+    {
+        "n": "Meinerzhagen EDKZ",
+        "m": "C01A48"
+    },
+    {
+        "n": "Melle-Groenegau EDXG",
+        "m": "C01A49"
+    },
+    {
+        "n": "Memmingen EDJA",
+        "m": "C01A4A"
+    },
+    {
+        "n": "Mendig EDRE",
+        "m": "C01A4B"
+    },
+    {
+        "n": "Mengen-Hohentengen EDTM",
+        "m": "C01A4C"
+    },
+    {
+        "n": "Mengeringhausen EDVG",
+        "m": "C01A4D"
+    },
+    {
+        "n": "Merseburg EDAM",
+        "m": "C01A4E"
+    },
+    {
+        "n": "Meschede-Schueren EDKM",
+        "m": "C01A4F"
+    },
+    {
+        "n": "Michelstadt/Odw. EDFO",
+        "m": "C01A50"
+    },
+    {
+        "n": "Mindelheim-Mattsies EDMN",
+        "m": "C01A51"
+    },
+    {
+        "n": "Moenchengladbach EDLN",
+        "m": "C01A52"
+    },
+    {
+        "n": "Moosburg auf der Kippe EDPI",
+        "m": "C01A53"
+    },
+    {
+        "n": "Mosbach-Lohrbach EDGM",
+        "m": "C01A54"
+    },
+    {
+        "n": "Mosenberg EDEM",
+        "m": "C01A55"
+    },
+    {
+        "n": "Muehldorf EDMY",
+        "m": "C01A56"
+    },
+    {
+        "n": "Muehlhausen EDEQ",
+        "m": "C01A57"
+    },
+    {
+        "n": "Muenchen EDDM",
+        "m": "C01A58"
+    },
+    {
+        "n": "Muenster/Osnabrueck EDDG",
+        "m": "C01A59"
+    },
+    {
+        "n": "Muenster-Telgte EDLT",
+        "m": "C01A5A"
+    },
+    {
+        "n": "Mueritz Airpark EDAX",
+        "m": "C01A5B"
+    },
+    {
+        "n": "Nabern/Teck EDTN",
+        "m": "C01A5C"
+    },
+    {
+        "n": "Nannhausen EDRN",
+        "m": "C01A5D"
+    },
+    {
+        "n": "Nardt EDAT",
+        "m": "C01A5E"
+    },
+    {
+        "n": "Neubrandenburg EDBN",
+        "m": "C01A5F"
+    },
+    {
+        "n": "Neuburg-Egweil EDNJ",
+        "m": "C01A60"
+    },
+    {
+        "n": "Neuhardenberg EDON",
+        "m": "C01A61"
+    },
+    {
+        "n": "Neuhausen EDAP",
+        "m": "C01A62"
+    },
+    {
+        "n": "Neuhausen Ob Eck EDSN",
+        "m": "C01A63"
+    },
+    {
+        "n": "Neumagen-Dhron EDRD",
+        "m": "C01A64"
+    },
+    {
+        "n": "Neumarkt/Opf. EDPO",
+        "m": "C01A65"
+    },
+    {
+        "n": "Neumuenster EDHN",
+        "m": "C01A66"
+    },
+    {
+        "n": "Neustadt/Aisch EDQN",
+        "m": "C01A67"
+    },
+    {
+        "n": "Neustadt-Glewe EDAN",
+        "m": "C01A68"
+    },
+    {
+        "n": "Niederrhein EDLV",
+        "m": "C01A69"
+    },
+    {
+        "n": "Niederstetten ETHN",
+        "m": "C01A6A"
+    },
+    {
+        "n": "Nienburg-Holzbalge EDXI",
+        "m": "C01A6B"
+    },
+    {
+        "n": "Noerdlingen EDNO",
+        "m": "C01A72"
+    },
+    {
+        "n": "Norden-Norddeich EDWS",
+        "m": "C01A6C"
+    },
+    {
+        "n": "Norderney EDWY",
+        "m": "C01A6D"
+    },
+    {
+        "n": "Nordhausen EDAO",
+        "m": "C01A6E"
+    },
+    {
+        "n": "Nordholz ETMN",
+        "m": "C01A6F"
+    },
+    {
+        "n": "Nordholz-Spieka EDXN",
+        "m": "C01A70"
+    },
+    {
+        "n": "Nordhorn-Lingen EDWN",
+        "m": "C01A71"
+    },
+    {
+        "n": "Northeim EDVN",
+        "m": "C01A73"
+    },
+    {
+        "n": "Nuernberg EDDN",
+        "m": "C01A74"
+    },
+    {
+        "n": "Obermehler-Schlotheim EDCO",
+        "m": "C01A75"
+    },
+    {
+        "n": "Ober-Moerlen EDFP",
+        "m": "C01A76"
+    },
+    {
+        "n": "Oberpfaffenhofen EDMO",
+        "m": "C01A77"
+    },
+    {
+        "n": "Oberrissdorf EDUO",
+        "m": "C01A78"
+    },
+    {
+        "n": "Oberschleissheim EDNX",
+        "m": "C01A79"
+    },
+    {
+        "n": "Oehna EDBO",
+        "m": "C01A7A"
+    },
+    {
+        "n": "Oerlinghausen EDLO",
+        "m": "C01A7B"
+    },
+    {
+        "n": "Offenburg EDTO",
+        "m": "C01A7C"
+    },
+    {
+        "n": "Oldenburg-Hatten EDWH",
+        "m": "C01A7D"
+    },
+    {
+        "n": "Oppenheim EDGP",
+        "m": "C01A7E"
+    },
+    {
+        "n": "Oschatz EDOQ",
+        "m": "C01A7F"
+    },
+    {
+        "n": "Oschersleben EDOL",
+        "m": "C01A80"
+    },
+    {
+        "n": "Osnabrueck-Atterheide EDWO",
+        "m": "C01A81"
+    },
+    {
+        "n": "Ottengruener Heide EDQO",
+        "m": "C01A82"
+    },
+    {
+        "n": "Paderborn-Haxterberg EDLR",
+        "m": "C01A83"
+    },
+    {
+        "n": "Paderborn/Lippstadt EDLP",
+        "m": "C01A84"
+    },
+    {
+        "n": "Pasewalk EDCV",
+        "m": "C01A85"
+    },
+    {
+        "n": "Pattonville EDTQ",
+        "m": "C01A86"
+    },
+    {
+        "n": "Peenemuende EDCP",
+        "m": "C01A87"
+    },
+    {
+        "n": "Pegnitz-Zipser Berg EDQZ",
+        "m": "C01A88"
+    },
+    {
+        "n": "Peine-Glindbruchkippe EDVP",
+        "m": "C01A8A"
+    },
+    {
+        "n": "Pellworm EDHP",
+        "m": "C01A89"
+    },
+    {
+        "n": "Pennewitz EDOS",
+        "m": "C01A8B"
+    },
+    {
+        "n": "Pfarrkirchen EDNP",
+        "m": "C01A8C"
+    },
+    {
+        "n": "Pfullendorf EDTP",
+        "m": "C01A8D"
+    },
+    {
+        "n": "Pinnow EDBP",
+        "m": "C01A8E"
+    },
+    {
+        "n": "Pirmasens EDRP",
+        "m": "C01A8F"
+    },
+    {
+        "n": "Pirna-Pratzschwitz EDAR",
+        "m": "C01A90"
+    },
+    {
+        "n": "Plettenberg-Hueinghausen EDKP",
+        "m": "C01A91"
+    },
+    {
+        "n": "Porta Westfalica EDVY",
+        "m": "C01A92"
+    },
+    {
+        "n": "Pritzwalk-Sommersberg EDBU",
+        "m": "C01A93"
+    },
+    {
+        "n": "Purkshof EDCX",
+        "m": "C01A94"
+    },
+    {
+        "n": "Radolfzell-Stahringen EDSR",
+        "m": "C01A95"
+    },
+    {
+        "n": "Regensburg-Oberhub EDNR",
+        "m": "C01A96"
+    },
+    {
+        "n": "Reichelsheim EDFB",
+        "m": "C01A97"
+    },
+    {
+        "n": "Reinsdorf EDOD",
+        "m": "C01A98"
+    },
+    {
+        "n": "Rendsburg-Schachtholm EDXR",
+        "m": "C01A99"
+    },
+    {
+        "n": "Renneritz EDOX",
+        "m": "C01A9A"
+    },
+    {
+        "n": "Rerik-Zweedorf EDCR",
+        "m": "C01A9B"
+    },
+    {
+        "n": "Rheine-Eschendorf EDXE",
+        "m": "C01A9C"
+    },
+    {
+        "n": "Riesa-Goehlis EDAU",
+        "m": "C01A9D"
+    },
+    {
+        "n": "Rinteln EDVR",
+        "m": "C01A9E"
+    },
+    {
+        "n": "Roitzschjora EDAW",
+        "m": "C01A9F"
+    },
+    {
+        "n": "Rosenthal-Field Ploessen EDQP",
+        "m": "C01AA0"
+    },
+    {
+        "n": "Rotenburg (Wuemme) EDXQ",
+        "m": "C01AA1"
+    },
+    {
+        "n": "Rothenburg o.d.T. EDFR",
+        "m": "C01AA2"
+    },
+    {
+        "n": "Rothenburg/Goerlitz EDBR",
+        "m": "C01AA3"
+    },
+    {
+        "n": "Rottweil-Zepfenhan EDSZ",
+        "m": "C01AA4"
+    },
+    {
+        "n": "Rudolstadt-Groschwitz EDOK",
+        "m": "C01AA5"
+    },
+    {
+        "n": "Ruegen EDCG",
+        "m": "C01AA6"
+    },
+    {
+        "n": "Saarbruecken EDDR",
+        "m": "C01AA7"
+    },
+    {
+        "n": "Saarlouis-Dueren EDRJ",
+        "m": "C01AA8"
+    },
+    {
+        "n": "Saarmund EDCS",
+        "m": "C01AA9"
+    },
+    {
+        "n": "Salzgitter-Druette EDVS",
+        "m": "C01AAA"
+    },
+    {
+        "n": "Salzgitter-Schaeferstuhl EDVJ",
+        "m": "C01AAB"
+    },
+    {
+        "n": "Saulgau EDTU",
+        "m": "C01AAC"
+    },
+    {
+        "n": "Schameder EDGQ",
+        "m": "C01AAD"
+    },
+    {
+        "n": "Schleswig-Kropp EDXC",
+        "m": "C01AAE"
+    },
+    {
+        "n": "Schmallenberg-Rennefeld EDKR",
+        "m": "C01AAF"
+    },
+    {
+        "n": "Schmidgaden EDPQ",
+        "m": "C01AB0"
+    },
+    {
+        "n": "Schmoldow EDBY",
+        "m": "C01AB1"
+    },
+    {
+        "n": "Schoenberg EDPK",
+        "m": "C01AB2"
+    },
+    {
+        "n": "Schoenebeck-Zackmuende EDOZ",
+        "m": "C01AB3"
+    },
+    {
+        "n": "Schoenhagen EDAZ",
+        "m": "C01AB4"
+    },
+    {
+        "n": "Schwabach-Buechenbach EDPH",
+        "m": "C01AB5"
+    },
+    {
+        "n": "Schwaebisch Hall-Weckrieden EDTX",
+        "m": "P00139"
+    },
+    {
+        "n": "Schwabmuenchen EDNS",
+        "m": "C01AB7"
+    },
+    {
+        "n": "Schwaebisch Hall EDTY",
+        "m": "C01AB6"
+    },
+    {
+        "n": "Schwandorf EDPF",
+        "m": "C01AB8"
+    },
+    {
+        "n": "Schwarzheide/Schipkau EDBZ",
+        "m": "C01AB9"
+    },
+    {
+        "n": "Schweighofen EDRO",
+        "m": "C01ABA"
+    },
+    {
+        "n": "Schweinfurt-Sued EDFS",
+        "m": "C01ABB"
+    },
+    {
+        "n": "Schwenningen Am Neckar EDTS",
+        "m": "C01ABC"
+    },
+    {
+        "n": "Schwerin-Parchim EDOP",
+        "m": "C01ABD"
+    },
+    {
+        "n": "Sedlitzer See EDUY",
+        "m": "C01ABE"
+    },
+    {
+        "n": "Seedorf EDXS",
+        "m": "C01ABF"
+    },
+    {
+        "n": "Segeletz EDAI",
+        "m": "C01AC0"
+    },
+    {
+        "n": "Siegerland EDGS",
+        "m": "C01AC1"
+    },
+    {
+        "n": "Sierksdorf/Hof Altona EDXT",
+        "m": "C01AC2"
+    },
+    {
+        "n": "Sinsheim EDTK",
+        "m": "C01AC3"
+    },
+    {
+        "n": "Soemmerda-Dermsdorf EDBS",
+        "m": "C01AC5"
+    },
+    {
+        "n": "Soest/Bad Sassendorf EDLZ",
+        "m": "C01AC4"
+    },
+    {
+        "n": "Sonnen EDPS",
+        "m": "C01AC6"
+    },
+    {
+        "n": "Speyer EDRY",
+        "m": "C01AC7"
+    },
+    {
+        "n": "Sprossen EDCH",
+        "m": "C01AC8"
+    },
+    {
+        "n": "Stade EDHS",
+        "m": "C01AC9"
+    },
+    {
+        "n": "Stadtlohn-Vreden EDLS",
+        "m": "C01ACA"
+    },
+    {
+        "n": "Stechow-Ferchesar EDUA",
+        "m": "C01ACB"
+    },
+    {
+        "n": "Stendal-Borstel EDOV",
+        "m": "C01ACC"
+    },
+    {
+        "n": "St. Michaelisdonn EDXM",
+        "m": "C01ACD"
+    },
+    {
+        "n": "Stoelln/Rhinow EDOR",
+        "m": "C01ACE"
+    },
+    {
+        "n": "St. Peter-Ording EDXO",
+        "m": "C01ACF"
+    },
+    {
+        "n": "Stralsund EDBV",
+        "m": "C01AD0"
+    },
+    {
+        "n": "Straubing EDMS",
+        "m": "C01AD1"
+    },
+    {
+        "n": "Strausberg EDAY",
+        "m": "C01AD2"
+    },
+    {
+        "n": "Stuttgart EDDS",
+        "m": "C01AD3"
+    },
+    {
+        "n": "Suhl-Goldlauter EDQS",
+        "m": "C01AD4"
+    },
+    {
+        "n": "Sylt EDXW",
+        "m": "C01AD5"
+    },
+    {
+        "n": "Tannheim EDMT",
+        "m": "C01AD6"
+    },
+    {
+        "n": "Taucha EDCT",
+        "m": "C01AD7"
+    },
+    {
+        "n": "Thalmaessing-Waizenhofen EDPW",
+        "m": "C01AD8"
+    },
+    {
+        "n": "Thannhausen EDNU",
+        "m": "C01AD9"
+    },
+    {
+        "n": "Torgau-Beilrode EDOG",
+        "m": "C01ADA"
+    },
+    {
+        "n": "Traben-Trarbach/Mont Royal EDRM",
+        "m": "C01ADB"
+    },
+    {
+        "n": "Treuchtlingen-Bubenheim EDNT",
+        "m": "C01ADC"
+    },
+    {
+        "n": "Trier-Foehren EDRT",
+        "m": "C01ADD"
+    },
+    {
+        "n": "Tutow EDUW",
+        "m": "C01ADE"
+    },
+    {
+        "n": "Uelzen EDVU",
+        "m": "C01ADF"
+    },
+    {
+        "n": "Uetersen/Heist EDHE",
+        "m": "C01AE0"
+    },
+    {
+        "n": "Unterschuepf EDGU",
+        "m": "C01AE1"
+    },
+    {
+        "n": "Varrelbusch EDWU",
+        "m": "C01AE2"
+    },
+    {
+        "n": "Verden-Scharnhorst EDWV",
+        "m": "C01AE3"
+    },
+    {
+        "n": "Vilsbiburg EDMP",
+        "m": "C01AE4"
+    },
+    {
+        "n": "Vilshofen EDMV",
+        "m": "C01AE5"
+    },
+    {
+        "n": "Vogtareuth EDNV",
+        "m": "C01AE6"
+    },
+    {
+        "n": "Waechtersberg EDSV",
+        "m": "C01AE7"
+    },
+    {
+        "n": "Wahlstedt EDHW",
+        "m": "C01AE8"
+    },
+    {
+        "n": "Walldorf EDGX",
+        "m": "C01AE9"
+    },
+    {
+        "n": "Wallduern EDEW",
+        "m": "C01AEA"
+    },
+    {
+        "n": "Wangerooge EDWG",
+        "m": "C01AEB"
+    },
+    {
+        "n": "Waren/Vielist EDOW",
+        "m": "C01AEC"
+    },
+    {
+        "n": "Wasserkuppe EDER",
+        "m": "C01AED"
+    },
+    {
+        "n": "Weiden/Opf. EDQW",
+        "m": "C01AEE"
+    },
+    {
+        "n": "Weimar-Umpferstedt EDOU",
+        "m": "C01AEF"
+    },
+    {
+        "n": "Weinheim/Bergstrasse EDGZ",
+        "m": "C01AF0"
+    },
+    {
+        "n": "Weissenhorn EDNW",
+        "m": "C01AF1"
+    },
+    {
+        "n": "Welzow EDCY",
+        "m": "C01AF2"
+    },
+    {
+        "n": "Werdohl-Kuentrop EDKW",
+        "m": "C01AF3"
+    },
+    {
+        "n": "Werneuchen EDBW",
+        "m": "C01AF4"
+    },
+    {
+        "n": "Wershofen/Eifel EDRV",
+        "m": "C01AF5"
+    },
+    {
+        "n": "Wesel-Roemerwardt EDLX",
+        "m": "C01AF6"
+    },
+    {
+        "n": "Weser-Wuemme EDWM",
+        "m": "C01AF7"
+    },
+    {
+        "n": "Westerstede-Felde EDWX",
+        "m": "C01AF8"
+    },
+    {
+        "n": "Wiefelstede/Conneforde EDWP",
+        "m": "C01AF9"
+    },
+    {
+        "n": "Wilhelmshaven \"JadeWeserAirport\" EDWI",
+        "m": "C01AFA"
+    },
+    {
+        "n": "Wilsche EDVQ",
+        "m": "C01AFB"
+    },
+    {
+        "n": "Winzeln-Schramberg EDTW",
+        "m": "C01AFC"
+    },
+    {
+        "n": "Wipperfuerth-Neye EDKN",
+        "m": "C01AFD"
+    },
+    {
+        "n": "Wismar EDCW",
+        "m": "C01AFE"
+    },
+    {
+        "n": "Wolfhagen \"Graner Berg\" EDGW",
+        "m": "C01AFF"
+    },
+    {
+        "n": "Worms EDFV",
+        "m": "C01B00"
+    },
+    {
+        "n": "Wuerzburg-Schenkenturm EDFW",
+        "m": "C01B01"
+    },
+    {
+        "n": "Wyk auf Foehr EDXY",
+        "m": "C01B02"
+    },
+    {
+        "n": "Zell-Haidberg EDNZ",
+        "m": "C01B03"
+    },
+    {
+        "n": "Zerbst EDUZ",
+        "m": "C01B04"
+    },
+    {
+        "n": "Zweibruecken EDRZ",
+        "m": "C01B05"
+    },
+    {
+        "n": "Zwickau EDBI",
+        "m": "C01B06"
+    },
+    {
+        "n": "Aachen Universitaetsklinikum (H)",
+        "m": "C01B07"
+    },
+    {
+        "n": "Aalen Ostalb-Klinikum (H)",
+        "m": "C01B08"
+    },
+    {
+        "n": "Agatharied Krhs. (H)",
+        "m": "C01B09"
+    },
+    {
+        "n": "Ahrensfelde EDOY (H)",
+        "m": "C01B0A"
+    },
+    {
+        "n": "Arnstadt Kkrhs. (H)",
+        "m": "C01B0B"
+    },
+    {
+        "n": "Aue HELIOS Klinikum (H)",
+        "m": "C01B0C"
+    },
+    {
+        "n": "Augsburg Klinikum (H)",
+        "m": "C01B0D"
+    },
+    {
+        "n": "Bad Berka Zentralklinik (H)",
+        "m": "C01B0E"
+    },
+    {
+        "n": "Bad Belzig Johanniter-Krhs. (H)",
+        "m": "C01B0F"
+    },
+    {
+        "n": "Bad Homburg v.d.H. Hochtaunus-Kliniken (H)",
+        "m": "C01B10"
+    },
+    {
+        "n": "Bad Salzungen Klinikum (H)",
+        "m": "C01B11"
+    },
+    {
+        "n": "Bad Kissingen St. Elisabeth-Krhs. (H)",
+        "m": "C01B12"
+    },
+    {
+        "n": "Bad Kreuznach Krhs. St. Marienwoerth (H)",
+        "m": "C01B13"
+    },
+    {
+        "n": "Bad Krozingen Herz-Zentrum (H)",
+        "m": "C01B14"
+    },
+    {
+        "n": "Bad Mergentheim Caritas Krhs. (H)",
+        "m": "C01B15"
+    },
+    {
+        "n": "Bad Rothenfelde Schuechtermann-Klinik (H)",
+        "m": "C01B16"
+    },
+    {
+        "n": "Bad Saarow HELIOS Klinikum (H)",
+        "m": "C01B17"
+    },
+    {
+        "n": "Balingen Krhs. (H)",
+        "m": "C01B1A"
+    },
+    {
+        "n": "Berchtesgaden International Resort (H)",
+        "m": "C01B1B"
+    },
+    {
+        "n": "Berlin Charite Campus Virchow-Klinikum (H)",
+        "m": "C01B1C"
+    },
+    {
+        "n": "Berlin Humboldt-Krhs. (H)",
+        "m": "C01B1D"
+    },
+    {
+        "n": "Bernau Krhs. (H)",
+        "m": "C01B1E"
+    },
+    {
+        "n": "Bernburg Klinikum (H)",
+        "m": "C01B1F"
+    },
+    {
+        "n": "Boeblingen Krhs. (H)",
+        "m": "C01B20"
+    },
+    {
+        "n": "Boppard Jakobsberg (H)",
+        "m": "C01B21"
+    },
+    {
+        "n": "Borna Sana Klinikum (H)",
+        "m": "C01B22"
+    },
+    {
+        "n": "Brandenburg Klinikum (H)",
+        "m": "C01B23"
+    },
+    {
+        "n": "Braeunlingen Firma Straub (H)",
+        "m": "C01B24"
+    },
+    {
+        "n": "Braunschweig Klinikum Salzdahlumer Str. (H)",
+        "m": "C01B25"
+    },
+    {
+        "n": "Bremen Klinikum Bremen-Mitte (H)",
+        "m": "C01B26"
+    },
+    {
+        "n": "Bremen Klinikum Links der Weser (H)",
+        "m": "C01B27"
+    },
+    {
+        "n": "Bremen-Nord Klinikum (H)",
+        "m": "C01B28"
+    },
+    {
+        "n": "Bremerhaven Klinikum (H)",
+        "m": "C01B29"
+    },
+    {
+        "n": "Bruchsal Fuerst-Stirum-Klinik (H)",
+        "m": "C01B2A"
+    },
+    {
+        "n": "Buchen/Odenwald Seitenbacher GmbH & Co. (H)",
+        "m": "C01B2B"
+    },
+    {
+        "n": "Burgholzhausen Rotorflug GmbH (H)",
+        "m": "C01B2C"
+    },
+    {
+        "n": "Burladingen Firma Trigema (H)",
+        "m": "C01B2D"
+    },
+    {
+        "n": "Calw Kkrhs. (H)",
+        "m": "C01B2E"
+    },
+    {
+        "n": "Coswig Fachkrankenhaus (H)",
+        "m": "C01B2F"
+    },
+    {
+        "n": "Cottbus Carl-Thiem-Klinikum (H)",
+        "m": "C01B30"
+    },
+    {
+        "n": "Dachau Klinikum (H)",
+        "m": "C01B31"
+    },
+    {
+        "n": "Dattenberg Firma S.P. (H)",
+        "m": "C01B32"
+    },
+    {
+        "n": "Dessau Staedt. Klinikum (H)",
+        "m": "C01B33"
+    },
+    {
+        "n": "Dinslaken Ev. Krhs. (H)",
+        "m": "C01B34"
+    },
+    {
+        "n": "Dippenricht (H)",
+        "m": "C01B35"
+    },
+    {
+        "n": "Donaueschingen Schwarzwald-Baar-Klinikum (H)",
+        "m": "C01B36"
+    },
+    {
+        "n": "Donauwoerth EDPR (H)",
+        "m": "C01B37"
+    },
+    {
+        "n": "Dresden-Friedrichstadt Krhs. (H)",
+        "m": "C01B38"
+    },
+    {
+        "n": "Dresden Universitaetsklinikum (H)",
+        "m": "C01B39"
+    },
+    {
+        "n": "Duesseldorf Universitaetsklinik (H)",
+        "m": "C01B3A"
+    },
+    {
+        "n": "Duisburg BG Klinikum (H)",
+        "m": "C01B3B"
+    },
+    {
+        "n": "Ebersberg Kreisklinik (H)",
+        "m": "C01B3C"
+    },
+    {
+        "n": "Eisenach St. Georg Klinikum (H)",
+        "m": "C01B3D"
+    },
+    {
+        "n": "Eisenhuettenstadt Staedt. Krhs. (H)",
+        "m": "C01B3E"
+    },
+    {
+        "n": "Ellenberg Schweizerhof (H)",
+        "m": "C01B3F"
+    },
+    {
+        "n": "Elsterwerda Krhs. (H)",
+        "m": "C01B40"
+    },
+    {
+        "n": "Emden Hans-Susemihl Krhs. (H)",
+        "m": "C01B41"
+    },
+    {
+        "n": "Ehingen Gesundheitszentrum (H)",
+        "m": "C01B42"
+    },
+    {
+        "n": "Erbach/Odenwald Kkrhs. (H)",
+        "m": "C01B44"
+    },
+    {
+        "n": "Erfurt HELIOS Klinikum (H)",
+        "m": "C01B45"
+    },
+    {
+        "n": "Erlabrunn Kliniken (H)",
+        "m": "C01B46"
+    },
+    {
+        "n": "Esslingen Klinikum (H)",
+        "m": "C01B47"
+    },
+    {
+        "n": "Frankfurt (Main) BG Unfallklinik (H)",
+        "m": "C01B49"
+    },
+    {
+        "n": "Frankfurt/Oder Klinikum (H)",
+        "m": "C01B4A"
+    },
+    {
+        "n": "Freiberg Kkrhs. (H)",
+        "m": "C01B4B"
+    },
+    {
+        "n": "Freiburg St. Josefs-Krhs. (H)",
+        "m": "C01B4C"
+    },
+    {
+        "n": "Freiburg Uniklinikum (H)",
+        "m": "C01B4D"
+    },
+    {
+        "n": "Freital Krhs. (H)",
+        "m": "C01B4E"
+    },
+    {
+        "n": "Freudenstadt Krhs. (H)",
+        "m": "C01B4F"
+    },
+    {
+        "n": "Friedrichshafen Klinikum (H)",
+        "m": "C01B50"
+    },
+    {
+        "n": "Fulda Klinikum (H)",
+        "m": "C01B51"
+    },
+    {
+        "n": "Fuerstenfeldbruck Kreisklinik (H)",
+        "m": "C01B52"
+    },
+    {
+        "n": "Gardelegen Krhs. (H)",
+        "m": "C01B53"
+    },
+    {
+        "n": "Garmisch-Partenkirchen Klinikum (H)",
+        "m": "C01B54"
+    },
+    {
+        "n": "Gerlingen Firma Bosch (H)",
+        "m": "C01B55"
+    },
+    {
+        "n": "Giessen-Johanniter (H)",
+        "m": "C01B56"
+    },
+    {
+        "n": "Giessen Universitaetsklinikum (H)",
+        "m": "C01B57"
+    },
+    {
+        "n": "Gifhorn Klinikum (H)",
+        "m": "C01B58"
+    },
+    {
+        "n": "Gifhorn Bundespolizei EDVX (H)",
+        "m": "C01B59"
+    },
+    {
+        "n": "Goennersdorf am Achelshof (H)",
+        "m": "C01B5A"
+    },
+    {
+        "n": "Goettingen Klinikum (H)",
+        "m": "C01B5B"
+    },
+    {
+        "n": "Grosssteinberg Firma Ulrich Altner (H)",
+        "m": "C01B5C"
+    },
+    {
+        "n": "Gruenstadt Kkrhs. (H)",
+        "m": "C01B5D"
+    },
+    {
+        "n": "Gummersbach Kkrhs. (H)",
+        "m": "C01B5E"
+    },
+    {
+        "n": "Halle Berufsgen. Kliniken (H)",
+        "m": "C01B5F"
+    },
+    {
+        "n": "Halle Krhs. St. Elisabeth u. St. Barbara (H)",
+        "m": "C01B60"
+    },
+    {
+        "n": "Halle-Doelau Staedt. Krhs. (H)",
+        "m": "C01B61"
+    },
+    {
+        "n": "Halle-Kroellwitz Universitaetsklinikum (H)",
+        "m": "C01B62"
+    },
+    {
+        "n": "Hameln-Pyrmont Sana Klinikum (H)",
+        "m": "C01B63"
+    },
+    {
+        "n": "Hammelburg-Untererthal (H)",
+        "m": "C01B64"
+    },
+    {
+        "n": "Hannover Kinderkrhs. \"Auf der Bult\" (H)",
+        "m": "C01B65"
+    },
+    {
+        "n": "Hannover Klinikum Siloah (H)",
+        "m": "C01B66"
+    },
+    {
+        "n": "Hannover Med. Hochschule (H)",
+        "m": "C01B67"
+    },
+    {
+        "n": "Hannover-Nordstadt Klinikum (H)",
+        "m": "C01B68"
+    },
+    {
+        "n": "Heide Kkrhs. (H)",
+        "m": "C01B6A"
+    },
+    {
+        "n": "Heidelberg Uni-Klinikum (H)",
+        "m": "C01B6B"
+    },
+    {
+        "n": "Heidenheim Klinikum (H)",
+        "m": "C01B6C"
+    },
+    {
+        "n": "Heilbronn-Neckargartach Klinikum am Gesundbrunnen (H)",
+        "m": "C01B6D"
+    },
+    {
+        "n": "Helmstedt HELIOS Klinik (H)",
+        "m": "C01B6E"
+    },
+    {
+        "n": "Herzberg Klinikum (H)",
+        "m": "C01B6F"
+    },
+    {
+        "n": "Hildesheim HELIOS Klinikum (H)",
+        "m": "C01B70"
+    },
+    {
+        "n": "Homburg/Saar Universitaetsklinik (H)",
+        "m": "C01B71"
+    },
+    {
+        "n": "Hoyerswerda Lausitzer Seenland Klinikum (H)",
+        "m": "C01B72"
+    },
+    {
+        "n": "Husum Kkrhs. (H)",
+        "m": "C01B73"
+    },
+    {
+        "n": "Immenstaad EADS GmbH (H)",
+        "m": "C01B74"
+    },
+    {
+        "n": "Ingolstadt Klinikum (H)",
+        "m": "C01B75"
+    },
+    {
+        "n": "Iphofen Firma Knauf (H)",
+        "m": "C01B76"
+    },
+    {
+        "n": "Itzehoe Klinikum (H)",
+        "m": "C01B77"
+    },
+    {
+        "n": "Jena Klinikum (H)",
+        "m": "C01B78"
+    },
+    {
+        "n": "Konstanz Klinikum (H)",
+        "m": "C01B79"
+    },
+    {
+        "n": "Kaiserslautern Westpfalz Klinikum (H)",
+        "m": "C01B7A"
+    },
+    {
+        "n": "Karlsbad-Langensteinbach SRH Klinikum (H)",
+        "m": "C01B7B"
+    },
+    {
+        "n": "Karlsruhe Staedt. Klinikum (H)",
+        "m": "C01B7C"
+    },
+    {
+        "n": "Karlsruhe-Rueppurr Diakonissenkrhs. (H)",
+        "m": "C01B7E"
+    },
+    {
+        "n": "Kempten (Allgaeu) Klinikum (H)",
+        "m": "C01B7F"
+    },
+    {
+        "n": "Kirchheim unter Teck Medius Klinik (H)",
+        "m": "C01B80"
+    },
+    {
+        "n": "Kisslegg (H)",
+        "m": "C01B81"
+    },
+    {
+        "n": "Koeln-Nippes St.-Vinzenz-Hospital (H)",
+        "m": "C01B82"
+    },
+    {
+        "n": "Koeln-Deutz Messe (H)",
+        "m": "C01B83"
+    },
+    {
+        "n": "Koeln-Merheim Krhs. (H)",
+        "m": "C01B84"
+    },
+    {
+        "n": "Koenigs Wusterhausen Achenbach-Krhs. (H)",
+        "m": "C01B85"
+    },
+    {
+        "n": "Krefeld Klinikum (H)",
+        "m": "C01B86"
+    },
+    {
+        "n": "Lahr-Ettenheim Ortenau Klinikum (H)",
+        "m": "C01B87"
+    },
+    {
+        "n": "Lausitzring Medical Center (H)",
+        "m": "C01B88"
+    },
+    {
+        "n": "Leipzig Herzzentrum (H)",
+        "m": "C01B8A"
+    },
+    {
+        "n": "Leipzig St. Elisabeth-Krhs. (H)",
+        "m": "C01B8B"
+    },
+    {
+        "n": "Leipzig Staedt. Klinikum St. Georg (H)",
+        "m": "C01B8C"
+    },
+    {
+        "n": "Leipzig Uniklinikum (H)",
+        "m": "C01B8D"
+    },
+    {
+        "n": "Leonberg Kkrhs. (H)",
+        "m": "C01B8E"
+    },
+    {
+        "n": "Lingen St. Bonifatius Hospital (H)",
+        "m": "C01B8F"
+    },
+    {
+        "n": "Loerrach Kkrhs. (H)",
+        "m": "C01B90"
+    },
+    {
+        "n": "Loewenstein Klinik (H)",
+        "m": "C01B91"
+    },
+    {
+        "n": "Ludwigsburg Klinik (H)",
+        "m": "C01B93"
+    },
+    {
+        "n": "Ludwigshafen Berufsgen. Unfallklinik EDGL (H)",
+        "m": "C01B94"
+    },
+    {
+        "n": "Luebbecke Kkrhs. (H)",
+        "m": "C01B95"
+    },
+    {
+        "n": "Luebeck Uniklinikum (UKSH) (H)",
+        "m": "C01B96"
+    },
+    {
+        "n": "Lueneburg Staedtisches Klinikum (H)",
+        "m": "C01B97"
+    },
+    {
+        "n": "Luenen St. Marien-Hospital (H)",
+        "m": "C01B98"
+    },
+    {
+        "n": "Magdeburg Klinikum (H)",
+        "m": "C01B99"
+    },
+    {
+        "n": "Magdeburg Universitaetsklinikum (H)",
+        "m": "C01B9A"
+    },
+    {
+        "n": "Mainz Joh. Gutenberg Uni Klinikum (H)",
+        "m": "C01B9B"
+    },
+    {
+        "n": "Mannheim Klinikum (H)",
+        "m": "C01B9C"
+    },
+    {
+        "n": "Mannheim Theresien-Krhs. (H)",
+        "m": "C01B9D"
+    },
+    {
+        "n": "Markgroeningen Klinik (H)",
+        "m": "C01B9E"
+    },
+    {
+        "n": "Mechernich Kkrhs. (H)",
+        "m": "C01B9F"
+    },
+    {
+        "n": "Meissen-Radebeul Elblandkliniken (H)",
+        "m": "C01BA0"
+    },
+    {
+        "n": "Meppen Ludmillenstift (H)",
+        "m": "C01BA1"
+    },
+    {
+        "n": "Mosbach Kkrhs. (H)",
+        "m": "C01BA3"
+    },
+    {
+        "n": "Muenchen-Bogenhausen Klinikum (H)",
+        "m": "C01BA4"
+    },
+    {
+        "n": "Muehlhausen (H)",
+        "m": "C01BA5"
+    },
+    {
+        "n": "Muenchen Deutsches Herzzentrum (H)",
+        "m": "C01BA6"
+    },
+    {
+        "n": "Muenchen Klinikum Grosshadern (H)",
+        "m": "C01BA7"
+    },
+    {
+        "n": "Muenchen Krhs. Harlaching (H)",
+        "m": "C01BA8"
+    },
+    {
+        "n": "Muenchen Sued Artemed Klinikum (H)",
+        "m": "C01BAA"
+    },
+    {
+        "n": "Muenchen-Schwabing Staedt. Krhs. (H)",
+        "m": "C01BAB"
+    },
+    {
+        "n": "Muenster Zentralklinikum (H)",
+        "m": "C01BAC"
+    },
+    {
+        "n": "Murnau Berufsgen. Unfallklinik (H)",
+        "m": "C01BAD"
+    },
+    {
+        "n": "Mutlangen Stauferklinikum (H)",
+        "m": "C01BAE"
+    },
+    {
+        "n": "Neubrandenburg Klinikum (H)",
+        "m": "C01BAF"
+    },
+    {
+        "n": "Nagold Kkrhs. (H)",
+        "m": "C01BB0"
+    },
+    {
+        "n": "Nauen Havelland Klinik (H)",
+        "m": "C01BB1"
+    },
+    {
+        "n": "Neumuenster Fr.-Ebert-Krhs. (H)",
+        "m": "C01BB2"
+    },
+    {
+        "n": "Neunkirchen Staedt. Klinikum (H)",
+        "m": "C01BB3"
+    },
+    {
+        "n": "Neuruppin Ruppiner Kliniken (H)",
+        "m": "C01BB4"
+    },
+    {
+        "n": "Neustrelitz Luftrettungsstelle (H)",
+        "m": "C01BB5"
+    },
+    {
+        "n": "Nienburg Klinikum (H)",
+        "m": "C01BB6"
+    },
+    {
+        "n": "Neuwied Marienhaus Klinikum St. Elisabeth (H)",
+        "m": "C01BB7"
+    },
+    {
+        "n": "Nuertingen Medius Klinik (H)",
+        "m": "C01BB8"
+    },
+    {
+        "n": "Obersoellbach Firma Helix (H)",
+        "m": "C01BBA"
+    },
+    {
+        "n": "Ochsenfurt Kkrhs. (H)",
+        "m": "C01BBB"
+    },
+    {
+        "n": "Ochtendung DHD Heliservice (H)",
+        "m": "C01BBC"
+    },
+    {
+        "n": "Oedheim EDGO (H)",
+        "m": "C01BBD"
+    },
+    {
+        "n": "Offenburg Kkrhs. (H)",
+        "m": "C01BBE"
+    },
+    {
+        "n": "Oggenhausen (H)",
+        "m": "C01BBF"
+    },
+    {
+        "n": "Oldenburg Klinikum (H)",
+        "m": "C01BC0"
+    },
+    {
+        "n": "Oschatz Collm-Klinik (H)",
+        "m": "C01BC1"
+    },
+    {
+        "n": "Osnabrueck Marienhospital (H)",
+        "m": "C01BC2"
+    },
+    {
+        "n": "Osnabrueck Klinikum (H)",
+        "m": "C01BC3"
+    },
+    {
+        "n": "Ottobrunn EDMR (H)",
+        "m": "C01BC4"
+    },
+    {
+        "n": "Papenburg Marienkrhs. (H)",
+        "m": "C01BC5"
+    },
+    {
+        "n": "Peine Klinikum (H)",
+        "m": "C01BC6"
+    },
+    {
+        "n": "Perleberg Kkrhs. Prignitz (H)",
+        "m": "C01BC7"
+    },
+    {
+        "n": "Pforzheim Arcus Sportklinik (H)",
+        "m": "C01BC8"
+    },
+    {
+        "n": "Pforzheim Klinikum (H)",
+        "m": "C01BC9"
+    },
+    {
+        "n": "Pforzheim Krhs. Siloah (H)",
+        "m": "C01BCA"
+    },
+    {
+        "n": "Pirna Klinikum (H)",
+        "m": "C01BCC"
+    },
+    {
+        "n": "Plau am See Fachkrhs. (H)",
+        "m": "C01BCD"
+    },
+    {
+        "n": "Ravensburg Krhs. St. Elisabeth (H)",
+        "m": "C01BCE"
+    },
+    {
+        "n": "Regensburg Klinikum Universitaet (H)",
+        "m": "C01BCF"
+    },
+    {
+        "n": "Reutlingen Klinikum (H)",
+        "m": "C01BD0"
+    },
+    {
+        "n": "Reutlingen-Betzingen (H)",
+        "m": "C01BD1"
+    },
+    {
+        "n": "Roding Firma Muehlbauer (H)",
+        "m": "C01BD3"
+    },
+    {
+        "n": "Rosenheim Klinikum (H)",
+        "m": "C01BD4"
+    },
+    {
+        "n": "Rotenburg/Wuemme Diakoniekrhs. (H)",
+        "m": "C01BD5"
+    },
+    {
+        "n": "Rottweil HELIOS Klinik (H)",
+        "m": "C01BD6"
+    },
+    {
+        "n": "Rottweil Krhs. Rottenmuenster (H)",
+        "m": "C01BD7"
+    },
+    {
+        "n": "Saffig (H)",
+        "m": "C01BD9"
+    },
+    {
+        "n": "Sanderbusch Nordwest-Krhs. (H)",
+        "m": "C01BDA"
+    },
+    {
+        "n": "Sangerhausen Krhs. (H)",
+        "m": "C01BDB"
+    },
+    {
+        "n": "Schkeuditz/Doelzig ADAC-Luftrettungsstation (H)",
+        "m": "C01BDC"
+    },
+    {
+        "n": "Schoeneck Paracelsus-Klinik (H)",
+        "m": "C01BDD"
+    },
+    {
+        "n": "Schwaebisch Hall Diakonie-Krhs. (H)",
+        "m": "C01BDE"
+    },
+    {
+        "n": "Schwedt/Oder PCK Raffinerie GmbH (H)",
+        "m": "C01BDF"
+    },
+    {
+        "n": "Schwieberdingen Firma Bosch (H)",
+        "m": "C01BE0"
+    },
+    {
+        "n": "Sebnitz Kkrhs. (H)",
+        "m": "C01BE1"
+    },
+    {
+        "n": "Senftenberg Ackerstrasse (H)",
+        "m": "C01BE2"
+    },
+    {
+        "n": "Senftenberg Klinikbereich (H)",
+        "m": "C01BE3"
+    },
+    {
+        "n": "Siegen Ev. Jung-Stilling-Krhs. (H)",
+        "m": "C01BE4"
+    },
+    {
+        "n": "Sindelfingen Daimler AG (H)",
+        "m": "C01BE5"
+    },
+    {
+        "n": "Sindelfingen Staedt. Krhs. (H)",
+        "m": "C01BE6"
+    },
+    {
+        "n": "Singen Hegau-Klinikum (H)",
+        "m": "C01BE7"
+    },
+    {
+        "n": "Spremberg (H)",
+        "m": "C01BE8"
+    },
+    {
+        "n": "Stendal Johanniter-Krhs. (H)",
+        "m": "C01BE9"
+    },
+    {
+        "n": "St. Wendel Golfhotel (H)",
+        "m": "C01BEA"
+    },
+    {
+        "n": "Stade Elbe Klinikum (H)",
+        "m": "C01BEB"
+    },
+    {
+        "n": "Straubing Klinikum St. Elisabeth (H)",
+        "m": "C01BEC"
+    },
+    {
+        "n": "Stuttgart Bad Cannstatt Robert-Bosch Krhs. (H)",
+        "m": "C01BED"
+    },
+    {
+        "n": "Stuttgart Katharinenhospital (H)",
+        "m": "C01BEE"
+    },
+    {
+        "n": "Stuttgart Marienhospital (H)",
+        "m": "C01BEF"
+    },
+    {
+        "n": "Suhl SRH Zentralklinikum (H)",
+        "m": "C01BF0"
+    },
+    {
+        "n": "Tettnang Kkrhs. (H)",
+        "m": "C01BF1"
+    },
+    {
+        "n": "Torgau Kkrhs. (H)",
+        "m": "C01BF2"
+    },
+    {
+        "n": "Traunstein Kkrhs. (H)",
+        "m": "C01BF3"
+    },
+    {
+        "n": "Trier Krankenanstalt Mutterhaus (H)",
+        "m": "C01BF4"
+    },
+    {
+        "n": "Trier Krhs. der Barmherz. Brueder (H)",
+        "m": "C01BF5"
+    },
+    {
+        "n": "Troisdorf-Sieglar St. Johannes-Krhs. (H)",
+        "m": "C01BF6"
+    },
+    {
+        "n": "Tuebingen Crona-Kliniken (H)",
+        "m": "C01BF7"
+    },
+    {
+        "n": "Tuebingen Unfallklinik (H)",
+        "m": "C01BF8"
+    },
+    {
+        "n": "Tuttlingen Klinikum (H)",
+        "m": "C01BF9"
+    },
+    {
+        "n": "Uelzen Klinikum (H)",
+        "m": "C01BFA"
+    },
+    {
+        "n": "Ulm Bundeswehrkrhs. (H)",
+        "m": "C01BFB"
+    },
+    {
+        "n": "Ulm Universitaetsklinikum (H)",
+        "m": "C01BFC"
+    },
+    {
+        "n": "Untertuerkheim Daimler AG (H)",
+        "m": "C01BFD"
+    },
+    {
+        "n": "Villingen-Schwenningen Zentralklinikum (H)",
+        "m": "C01BFE"
+    },
+    {
+        "n": "Vogtareuth Schoen Klinik (H)",
+        "m": "C01BFF"
+    },
+    {
+        "n": "Weissenhorn Stiftungsklinik (H)",
+        "m": "C01C00"
+    },
+    {
+        "n": "Winnenden Klinik (H)",
+        "m": "C01C01"
+    },
+    {
+        "n": "Winsen/Luhe Krhs. (H)",
+        "m": "C01C02"
+    },
+    {
+        "n": "Westerstede Klinikzentrum (H)",
+        "m": "C01C03"
+    },
+    {
+        "n": "Wilhelmshaven Klinikum (H)",
+        "m": "C01C04"
+    },
+    {
+        "n": "Wittlich St. Elisabeth Krhs. (H)",
+        "m": "C01C05"
+    },
+    {
+        "n": "Wolfenbuettel Staedt. Krhs. (H)",
+        "m": "C01C06"
+    },
+    {
+        "n": "Wolfsburg Klinikum (H)",
+        "m": "C01C07"
+    },
+    {
+        "n": "Wuerselen-Marienhoehe Rhein-Maas-Klinikum (H)",
+        "m": "C01C08"
+    },
+    {
+        "n": "Zimmern o. R. Polizeistuetzpunkt (H)",
+        "m": "C01C09"
+    },
+    {
+        "n": "Zschopau Klinikum (H)",
+        "m": "C01C0A"
+    }
+]
