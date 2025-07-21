@@ -12,6 +12,14 @@ from urllib.parse import urljoin
 import tensorflow as tf
 import numpy as np
 from PIL import Image
+import logging
+
+logger = logging.getLogger(__name__)
+logging.basicConfig()
+
+get_headers = {
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+  }
 
 model = None
 class_names = ['AD', 'GND', 'VAD']  # Your class names
@@ -26,7 +34,7 @@ def print_progress(percent):
     bar = "#" * (percent // 2)  # 50 chars wide
     print(f"\r[{bar:<50}] {percent}%", end="")
 
-baseurl = "https://aip.dfs.de/BasicVFR/pages/"
+baseurl = "https://aip.dfs.de/BasicVFR/"
 debug = False
 
 def predict(image):
@@ -67,21 +75,26 @@ def download():
     }
     print_progress(c / len(airports) * 100)
     code_match = re.findall(r'\s([A-Z]{4})', a['name'])
+    aname = a['name']
     if len(code_match) == 0:
-      print("no icao code found. skipping")
+      logger.debug(f"no icao code found for '{aname}'. skipping")
       continue
     code = code_match[0]
-    c = requests.get(f'https://aip.dfs.de/BasicVFR/pages/{a["code"]}.html')
+    url = f'{baseurl}pages/{a["code"]}.html'
+    c = requests.get(url, headers=get_headers)
     match = re.search(r'url=([^"]+)', c.text)
+
     if match:
       url = match.group(1)
-      ap_url = urljoin(baseurl, url)
-      c2 = requests.get(ap_url)
+      ap_url = urljoin(baseurl + "pages/", url)
+      c2 = requests.get(ap_url, headers=get_headers)
+      logger.debug(f"status chart page: {ap_url}, {c2.status_code}")
       hrefs = re.findall(r'href=["\'](\.\./pages/[^"\']*)["\']', c2.text)
       for u in hrefs:
         cu = urljoin(ap_url, u)
 
-        c3 = requests.get(cu)
+        c3 = requests.get(cu, headers=get_headers)
+        logger.debug(f"img url: {cu}")
         html = c3.text
         match = re.search(r'<img[^>]*id=["\']imgAIP["\'][^>]*src=["\']([^"\']+)["\']', html)
         if match:
@@ -90,16 +103,16 @@ def download():
           binary = base64.b64decode(b64)
           img = Image.open(BytesIO(binary))
           t = predict(img)
-          print(t)
+          logger.debug(t)
           type_counter[t] = type_counter[t] + 1
           suffix = "" if type_counter[t] == 1 else type_counter[t] 
           out_name = f"charts/byop/{code}_{chart_types[t]}_{t}{suffix}.pdf"
           img.save(out_name)
 
         else:
-          print("Image with id 'imgAIP' not found.")
+          logger.debug("Image with id 'imgAIP' not found.")
     else:
-      print("URL not found.")
+      logger.debug("URL not found.")
       continue
 
 def update_manifest():
@@ -129,11 +142,18 @@ def create_zip(manifest):
 
 def main():
   args = sys.argv
-  print(args)
   if len(args) < 2:
     print("this is main")
     exit(0)
 
+  logLevel = logging.INFO
+
+  if len(args) > 2:
+    if args[2] == "-d":
+      logLevel = logging.DEBUG
+      print("setting logleel debug")
+  logger.setLevel(logLevel)
+  logger.debug(args)
   if args[1] == 'debug':
     m = update_manifest()
     create_zip(m)
