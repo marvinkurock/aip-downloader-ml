@@ -1,3 +1,7 @@
 Pillow
 numpy
 tensorflow
+setuptools<82
+pip<24
+wheel<0.45
+download-tiles

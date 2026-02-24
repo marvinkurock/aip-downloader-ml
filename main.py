@@ -160,9 +160,12 @@ def main():
 
   if args[1] == "new":
     global model 
-    files = [f for f in os.listdir('charts/byop/')]
+    path = 'charts/byop/'
+    if not os.path.exists(path):
+      os.mkdir(path)
+    files = [f for f in os.listdir(path)]
     for f in files:
-      os.remove('charts/byop/'+f)
+      os.remove(path + f)
     try:
       os.remove('charts/manifest.json')
     except:
