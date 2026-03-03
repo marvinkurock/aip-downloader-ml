@@ -25,7 +25,7 @@ model = None
 class_names = ['AD', 'GND', 'VAD']  # Your class names
 chart_types = {
   "AD": "airport",
-  "VAD": "arrival",
+  "VAD": "approach",
   "GND": "taxi"
 }
 
@@ -122,7 +122,7 @@ def update_manifest():
   v = tpl['version']
   v = round(v+0.1, 1)
   tpl['version'] = v
-  now = datetime.now().strftime('%Y%m%dT%H:%M:%SZ')
+  now = datetime.utcnow().strftime('%Y%m%dT%H:%M:%SZ')
   tpl['effectiveDate'] = now
   print(tpl)
   with open('charts/manifest.json', 'w') as f:
